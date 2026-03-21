@@ -1,3 +1,7 @@
+# Book
+
+- https://odinbook.com, https://x.com/TheGingerBill/status/1865004497224765534
+
 # Cheat sheet
 
 - https://github.com/joaocarvalhoopen/Tutorial_on_how_to_install_Odin_on_Void_Linux
@@ -11,6 +15,6 @@
 
 - https://m.youtube.com/playlist?list=PL93bFkoCMJsmqyk5C7hAAIytEfpMDunQ9
 
-# Opinion 
+# Opinion
 
 - [A Review of the Odin Programming Language](https://news.ycombinator.com/item?id=32799499)
